@@ -1,6 +1,6 @@
 /*Variáveis ​​globais para alteração de cores no site*/
 :root {
-    --main: #000000;    /*texto*/
+    --main: #000000;    /*text*/
     --bg: #ffffff;  /*background*/
     --accent: #3865FF;  /*links*/
 }
@@ -8,16 +8,17 @@
 body {
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     background-color: var(--bg);
-    color: var(--main) ;
+    color: var(--main);
         /*Define a cor do texto*/
-    width: 600px;
+    width: 700 auto;
+    padding: 50px;
         /*Define a largura de exibição*/
-    /*margin: 0 auto;*/
+    margin: auto;
         /*O valor "auto" atribui ao navegador selecionar uma margem adequada para utilizar. Por exemplo, em alguns casos este valor pode ser utilizado para centralizar o elemento.*/
 }
 
 header {
-    /*text-align: center;*/
+    text-align: center;
         /*Define o tipo de alimento do texto*/
 }
 

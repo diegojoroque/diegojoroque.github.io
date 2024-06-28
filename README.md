@@ -1,4 +1,4 @@
-Este é meu blog pessoal. Ele é uma espécie de diário e um lugar onde publico ideias, além de compartilhar outras coisas que curti.
+Este é meu site e blog pessoal. Ele é uma espécie de diário e um lugar onde publico ideias, além de compartilhar outras coisas que curti.
 
 Mas por que criar um blog? _back to the 2000 year's_
 

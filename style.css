@@ -45,6 +45,6 @@ button {
     margin: auto;
 }
 
-.contact, .post{
+.contact, /*.post*/{
     text-align: center;
 }

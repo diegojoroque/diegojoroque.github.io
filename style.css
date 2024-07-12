@@ -57,11 +57,8 @@ button {
         "max-width" substitui "width", mas "min-width" substitui "max-width".*/
     height: auto;
 }
-*/
 
-/*
 .contact img {
     max-width: 32px;
     padding: 10px;
-}*
-/
+}

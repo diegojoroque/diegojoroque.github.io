@@ -1,0 +1,63 @@
+/*Variáveis ​​globais para alteração de cores no site*/
+:root {
+    --main: #000000;    /*text*/
+    --bg: #ffffff;  /*background*/
+    --accent: #3865FF;  /*links*/
+}
+
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: var(--bg);
+    color: var(--main);
+        /*Define a cor do texto*/
+    /*width: 700 auto;*/
+    padding: 50px;
+        /*Define a largura de exibição*/
+    margin: auto;
+        /*O valor "auto" atribui ao navegador selecionar uma margem adequada para utilizar. Por exemplo, em alguns casos este valor pode ser utilizado para centralizar o elemento.*/
+    min-width: 280;
+    max-width: 700;
+}
+
+header {
+    text-align: center;
+        /*Define o tipo de alimento do texto*/
+}
+
+/*formatação dos links*/
+a, a:visited {
+    /*a:visited é o link já acessado.*/
+    color: var(--accent);
+    text-decoration: none;
+        /*O link visitado fica roxo por padrão. "none" não permite que isso ocorra.*/
+}
+
+a:hover, a:focus {
+/*"hover" é o que acontece ao clicar no link. 
+"focus" é o que acontence ao passar o mouse sobre o link*/
+    text-decoration: underline;
+        /*animação (sublinhado) ao passar o mouse sobre o link.
+        Se não houvesse isso, o sublinhado desapareceria quando alguém clicasse no link.*/
+}
+
+button {
+    background-color: var(--bg);
+    display: block;
+    border: none;
+    margin: auto;
+}
+
+/*
+.contact, .post{
+    text-align: center;
+}
+*/
+
+*img {
+    width: 100%;
+}
+
+.contact img {
+    max-width: 32px;
+    padding: 10px;
+}

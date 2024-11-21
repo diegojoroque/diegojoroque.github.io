@@ -2,4 +2,5 @@ _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
+_posts/2024-11-20-welcome-to-jekyll.markdown
 vendor

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Yesterday you said tomorrow. Just do it."
+title:  "Yesterday you said tomorrow. Just..."
 date:   2024-11-21 15:22:00 -0300
 categories: quotes
 ---

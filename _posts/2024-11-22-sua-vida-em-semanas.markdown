@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sua vida em semanas."
+title:  "Sua vida em semanas"
 date:   2024-11-22 17:58:00 -0300
 categories: quotes
 ---

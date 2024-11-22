@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "O meu passado, Senhor, à tua misericórdia."
+title:  "O meu passado, Senhor, à tua misericórdia"
 date:   2024-11-22 17:39:00 -0300
 categories: quotes
 ---

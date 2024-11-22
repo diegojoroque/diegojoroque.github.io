@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nós não pedimos por este salão ou esta música."
+title:  "Nós não pedimos por este salão ou esta música"
 date:   2024-11-22 17:17:00 -0300
 categories: quotes
 ---

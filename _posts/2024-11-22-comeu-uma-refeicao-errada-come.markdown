@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Comeu uma refeição errada? Come melhor na próxima"
+title:  "Comeu uma refeição errada? Come melhor na próxima."
 date:   2024-11-22 17:49:00 -0300
 categories: quotes
 ---

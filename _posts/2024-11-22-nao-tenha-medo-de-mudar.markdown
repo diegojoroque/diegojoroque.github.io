@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Não tenha medo de mudar"
+title:  "Não tenha medo de mudar."
 date:   2024-11-22 17:43:00 -0300
 categories: quotes
 ---

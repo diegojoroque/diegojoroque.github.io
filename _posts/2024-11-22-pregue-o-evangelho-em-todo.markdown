@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pregue o evangelho em todo..."
+title:  "Pregue o evangelho em todo tempo. Se necessário, use palavras."
 date:   2024-11-22 06:35:00 -0300
 categories: quotes
 ---

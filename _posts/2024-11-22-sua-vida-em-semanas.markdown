@@ -12,6 +12,6 @@ Nesse contexto, eu fiquei admirado ao assistir a palestra ["Inside the mind of a
 
 "Às vezes a vida parece muito curta e outras vezes parece impossivelmente longa. Mas este gráfico ajuda a enfatizar que é certamente finito. Essas são as suas semanas e são tudo que você tem."
 
-![A 90 Year Human Life in Weeks](90-anos-vida-em-semanas.jpeg)
+![A 90 Year Human Life in Weeks](/_images/90-anos-vida-em-semanas.jpeg)
 
-![The Life of a Typical American](vida-em-semanas-de-um-americano-tipico.jpeg)
+![The Life of a Typical American](/_images/vida-em-semanas-de-um-americano-tipico.jpeg)

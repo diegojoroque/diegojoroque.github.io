@@ -6,4 +6,4 @@ categories: quotes
 ---
 >In three words I can sum up everything I know about life: it goes on.
 
->Robert Frost
+Robert Frost

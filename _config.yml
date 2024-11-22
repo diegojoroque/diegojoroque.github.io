@@ -32,12 +32,9 @@ instagram_username: diegojoroque
 linkedin_username: diegojoroque
 
 # Build settings
-#theme: minima
-remote_theme: pages-themes/minimal@v0.2.0
+theme: minima
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-#plugins:
-#  - jekyll-feed
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.

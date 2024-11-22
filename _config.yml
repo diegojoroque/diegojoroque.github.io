@@ -32,7 +32,8 @@ instagram_username: diegojoroque
 linkedin_username: diegojoroque
 
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
 

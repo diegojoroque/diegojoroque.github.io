@@ -6,6 +6,8 @@ categories: quotes
 ---
 >Oração da Sobriedade
 
->Serenidade para aceitar as coisas que não posso modificar. Coragem para modificar aquelas que posso. Sabedoria para distinguir uma das outras.
+>Serenidade para aceitar as coisas que não posso modificar.
+Coragem para modificar aquelas que posso.
+Sabedoria para distinguir uma das outras.
 
 >Oração da Sobriedade

@@ -6,7 +6,7 @@ categories: quotes
 ---
 # Você tem que encontrar o que você ama
 
-## Discurso de Steve Jobs na Universidade de Stanford, em 2005
+**Discurso de Steve Jobs na Universidade de Stanford, em 2005**
 
 [![Vídeo do discurso de Steve Jobs na Universidade de Stanford, em 2005](/assets/steve-jobs-stanford.png)](https://www.youtube.com/watch?v=DcqwkdTvTzs)
 

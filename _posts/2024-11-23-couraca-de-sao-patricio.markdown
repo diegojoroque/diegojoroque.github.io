@@ -21,19 +21,33 @@ Invoco hoje estes poderes para que se levantem entre mim e estes males, contra t
 Cristo que me protege hoje contra o veneno, contra o fogo, contra morrer afogado, contra ser ferido, para que assim venha a mim abundante consolo.
 
 Cristo comigo,
+
 Cristo à minha frente,
+
 Cristo atrás de mim,
+
 Cristo em mim,
+
 Cristo abaixo de mim,
+
 Cristo sobre mim,
+
 Cristo à minha direita,
+
 Cristo à minha esquerda,
+
 Cristo quando me deito,
+
 Cristo quando me sento,
+
 Cristo quando me levanto,
+
 Cristo no coração de todo homem que pensa em mim,
+
 Cristo na boca de quem fale de mim,
+
 Cristo em todo olho que me vê,
+
 Cristo em todo ouvido que me ouve.
 
-Hoje me levanto com poderosa força e invoco à Santíssima Trindade com trinitária fé professando a unidade do Criador e da criatura. Amém
+Hoje me levanto com poderosa força e invoco à Santíssima Trindade com trinitária fé professando a unidade do Criador e da criatura. Amém.

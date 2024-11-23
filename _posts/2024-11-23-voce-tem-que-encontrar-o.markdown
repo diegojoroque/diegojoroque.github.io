@@ -6,7 +6,7 @@ categories: quotes
 ---
 # Você tem que encontrar o que você ama
 
-[![Vídeo do discurso de Steve Jobs na Universidade de Stanford, em 2005](/assets/steve-jobs-stanford.png)](https://www.youtube.com/watch?v=arj7oStGLkU)
+[![Vídeo do discurso de Steve Jobs na Universidade de Stanford, em 2005](/assets/steve-jobs-stanford.png)](https://www.youtube.com/watch?v=DcqwkdTvTzs)
 
 Estou honrado de estar aqui, na formatura de uma das melhores universidades do mundo. Eu nunca me formei na universidade. Que a verdade seja dita, isso é o mais perto que eu já cheguei de uma cerimônia de formatura. Hoje, eu gostaria de contar a vocês três histórias da minha vida. E é isso. Nada demais. Apenas três histórias.
 

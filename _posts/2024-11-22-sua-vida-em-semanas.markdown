@@ -10,7 +10,7 @@ O tempo sempre me fascinou e trouxe indagações. Talvez seja por isso que "Back
 
 Nesse contexto, destaco abaixo a palestra e um trecho do texto ["Your Life in Weeks"](https://waitbutwhy.com/2014/05/life-weeks.html), ambos de Tim Urban:
 
-[![Inside the mind of a master procrastinator](/assets/tim-urban-ted.png))](https://www.youtube.com/embed/arj7oStGLkU?si=tUWOacpiufm0uuqq)
+[![Inside the mind of a master procrastinator](/assets/tim-urban-ted.png)](https://www.youtube.com/watch?v=arj7oStGLkU)
 
 >"Às vezes a vida parece muito curta e outras vezes parece impossivelmente longa. Mas este gráfico ajuda a enfatizar que é certamente finito. Essas são as suas semanas e são tudo que você tem."
 

@@ -10,5 +10,4 @@ categories: quotes
 >
 >O meu futuro, à tua Providência.
 
-
 >São Padre Pio

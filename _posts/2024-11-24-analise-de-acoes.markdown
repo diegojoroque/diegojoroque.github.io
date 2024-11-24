@@ -22,7 +22,7 @@ categories: finance
 		| Valor | Indica             |
 		|-------|--------------------|
 		| <1    | oportunidade       |
-		| > 1   | empresa valorizada |
+		| >1   | empresa valorizada |
 
 	* ### DMA (6 últimos anos) (Maior, melhor)
 
@@ -56,7 +56,7 @@ categories: finance
 		
 		Esse valor total da empresa, incluindo o valor de mercado das ações mais suas dívidas. Esse indicador adiciona a dívida à equação. Com isso, uma empresa pode parecer mais barata pelo P/L por estar mais endividada.
 
-			Para empresas que possuem alavancagem considerável, este indicador é o ideal a ser usado. Múltiplos inferiores a 6-5 vezes podem indicar pechinchas.
+		Para empresas que possuem alavancagem considerável, este indicador é o ideal a ser usado. Múltiplos inferiores a 6-5 vezes podem indicar pechinchas.
 
 
 		| Valor | Indica                             |
@@ -106,7 +106,11 @@ categories: finance
 
 * ## Governança
 
-	* Quem é o dono?
+	* Quem é(são) o(s) dono(s)?
+
+	* CVM 44
+
+* ## Outros
 
 	* Quais os concorrentes?
 
@@ -114,15 +118,13 @@ categories: finance
 
 	* Qual(is) a(s) área(s) de atuação? (Verificar no site investidor10)
 
-	* Ler apresentações e guidance
-
-	* CVM 44
+	* Acompanhar apresentações de resultados, guidances e comunicados
 
 	* Analisar recorrência de lucro (análise horizontal)
+	
+	* Yield on Coast
 
-* ## Outros
-
-	* Preço Médio: Utilizado somente para declaração de imposto de renda.
+	* Preço Médio é utilizado somente para declaração de imposto de renda.
 
 	* Considerar o ano fiscal para obter lucro líquido, dividendo e payout.
 
@@ -132,18 +134,18 @@ categories: finance
 
 	* Observações intrínseca dos setores:
 
-		* Banco: avaliar também o índice de basileia
+		* Banco: Avaliar o índice de basileia
 
-		* Seguradora: avaliar índice de sinistro e ROE
+		* Seguradora: Avaliar índice de sinistros e ROE
 
-		* Elétrica: Geralmente tem uma dívida maior (mais alavancado)
+		* Elétrica: Geralmente tem uma dívida maior (estão ais alavancado)
 
-	* Acompanhar o mapa de dividendos para se atentar às datas para melhor aporte.
+	* Acompanhar o calendário de anúncio e pagamento de dividendos para se atentar às possíveis datas de melhor aporte.
 
 	* Liquidez média diária
 
-### Atenção
+* ### Atenção
 
-#### O conteúdo dessa postagem foi criado a partir do estudo de materiais disponíveis em outros sites.
+	* #### O conteúdo dessa postagem foi criado a partir do estudo de materiais disponíveis em outros sites.
 
-#### A informação dessa postagem NÃO é recomendação de negociação, seja ela compra e/ou venda e/ou outra operação.
+	* #### A conteúdo dessa postagem NÃO é recomendação de negociação, seja ela compra e/ou venda e/ou outra operação.

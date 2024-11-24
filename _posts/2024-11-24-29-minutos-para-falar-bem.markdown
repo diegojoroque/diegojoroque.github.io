@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "29 minutos para falar bem em público: E conversar com desenvoltura"
+title:  "29 minutos para falar bem em público e conversar com desenvoltura"
 date:   2024-11-24 06:00:00 -0300
 categories: books
 ---
-# 29 minutos para falar bem em público: E conversar com desenvoltura
+# 29 minutos para falar bem em público e conversar com desenvoltura
 
 **Rachel Polito e Reinaldo Polito**
 

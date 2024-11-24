@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Análise de Ações"
-date:   2024-11-24 10:00:00 -0300
+date:   2024-11-24 09:48:00 -0300
 categories: finance
 ---
 # Análise de Ações

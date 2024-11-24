@@ -58,7 +58,6 @@ categories: finance
 
 		Para empresas que possuem alavancagem considerável, este indicador é o ideal a ser usado. Múltiplos inferiores a 6-5 vezes podem indicar pechinchas.
 
-
 		| Valor | Indica                             |
 		|-------|------------------------------------|
 		| <3    | ideal para compra, mas não é regra |					
@@ -121,7 +120,7 @@ categories: finance
 	* Acompanhar apresentações de resultados, guidances e comunicados
 
 	* Analisar recorrência de lucro (análise horizontal)
-	
+
 	* Yield on Coast
 
 	* Preço Médio é utilizado somente para declaração de imposto de renda.

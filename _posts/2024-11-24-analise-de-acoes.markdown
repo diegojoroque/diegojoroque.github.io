@@ -143,8 +143,10 @@ categories: finance
 
 	* Liquidez média diária
 
-* ### Atenção
+* ### Atenção!
 
 	* #### O conteúdo dessa postagem foi criado a partir do estudo de materiais disponíveis em outros sites.
 
-	* #### A conteúdo dessa postagem NÃO é recomendação de negociação, seja ela compra e/ou venda e/ou outra operação.
+	* #### O conteúdo dessa postagem NÃO é recomendação de negociação, seja ela compra e/ou venda e/ou qualquer outra operação na bolsa de valores.
+
+	* #### Esta postagem foi criada para o uso exclusivo do próprietário do site.

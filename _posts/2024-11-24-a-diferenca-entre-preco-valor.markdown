@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "A diferença entre preço e valor."
+title:  "A diferença entre preço e valor"
 date:   2024-11-24 15:50:00 -0300
 categories: quotes
 ---
 
->A diferença entre preço e valor.
+# A diferença entre preço e valor
+
+**[Publicação original](https://www.instagram.com/p/CZz6YFnleTg/?igsh=MTBzbmNyNnRoeGZneA==) de Pedro Cipoli, via Intagram em 10/02/2022**
 
 [![A diferença entre preço e valor](/assets/pedro-cipoli-preco-valor.png)](https://www.instagram.com/p/CZz6YFnleTg/?igsh=MTBzbmNyNnRoeGZneA==)
 

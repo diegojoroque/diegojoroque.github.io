@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Análise de Ações"
-date:   2024-11-24 09:00:00 -0300
+date:   2024-11-24 10:00:00 -0300
 categories: finance
 ---
 # Análise de Ações
@@ -34,7 +34,7 @@ categories: finance
 
 		O DPA projetado pode demonstrar se há ou não perspectiva de crescimento, em relação ao DMA.
 
-			Exemplo: Há perspectiva de que os proventos da Taesa sejam afetados devido à proximidade do fim das concessões. Logo, a comparação entre DPA e DMA poderão demonstrar isso.
+		Exemplo: Há perspectiva de que os proventos da Taesa sejam afetados devido à proximidade do fim das concessões. Logo, a comparação entre DPA e DMA poderão demonstrar isso.
 
 	* ### Preço Teto Médio (Maior, melhor)
 
@@ -96,7 +96,7 @@ categories: finance
 
 	* ### ROIC (Maior, melhor)
 
-			Mede a capacidade de agregar valor considerando o  capital investido, incluindo os aportes por meio de dívidas.
+		Mede a capacidade de agregar valor considerando o  capital investido, incluindo os aportes por meio de dívidas.
 
 * ## Indicadores de crescimento	
 
@@ -118,7 +118,7 @@ categories: finance
 
 	* CVM 44
 
-	* nalisar recorrência de lucro (análise horizontal)
+	* Analisar recorrência de lucro (análise horizontal)
 
 * ## Outros
 
@@ -142,8 +142,8 @@ categories: finance
 
 	* Liquidez média diária
 
-**Atenção**
+### Atenção
 
-	* O conteúdo dessa postagem foi criado a partir do estudo de materiais disponíveis em outros sites.
-	
-	* A informação dessa postagem NÃO é recomendação de negociação, seja ela compra e/ou venda e/ou outra operação.
+#### O conteúdo dessa postagem foi criado a partir do estudo de materiais disponíveis em outros sites.
+
+#### A informação dessa postagem NÃO é recomendação de negociação, seja ela compra e/ou venda e/ou outra operação.

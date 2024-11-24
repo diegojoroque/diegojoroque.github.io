@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Análise de Ações"
+title:  "Análise de ações"
 date:   2024-11-24 09:48:00 -0300
 categories: finance
 ---
-# Análise de Ações
+# Análise de ações
 
-* ## Indicadores de Valuation
+* ## Indicadores de valuation
 
 	* ### P/L (Menor, melhor)
 

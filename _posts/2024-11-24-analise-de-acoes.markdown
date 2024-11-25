@@ -145,8 +145,8 @@ categories: finance
 
 * ### Atenção!
 
-	* #### O conteúdo dessa postagem foi criado a partir do estudo de materiais disponíveis em outros sites.
+	* #### O conteúdo dessa postagem foi criado a partir de diferentes fontes.
 
-	* #### O conteúdo dessa postagem NÃO é recomendação de negociação, seja ela compra e/ou venda e/ou qualquer outra operação na bolsa de valores.
+	* #### O conteúdo dessa postagem NÃO consiste em recomendação de negociação na bolsa de valores, seja ela compra e/ou venda e/ou qualquer outra operação.
 
-	* #### Esta postagem foi criada para o uso exclusivo do próprietário do site.
+	* #### Esta postagem foi criada para o uso exclusivo do próprietário desse site.

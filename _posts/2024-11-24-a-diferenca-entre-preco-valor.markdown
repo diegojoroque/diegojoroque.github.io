@@ -7,8 +7,6 @@ categories: quotes
 
 # A diferença entre preço e valor
 
-**[Publicação original](https://www.instagram.com/p/CZz6YFnleTg/?igsh=MTBzbmNyNnRoeGZneA==) de Pedro Cipoli, via Intagram em 10/02/2022**
-
 [![A diferença entre preço e valor](/assets/pedro-cipoli-preco-valor.png)](https://www.instagram.com/p/CZz6YFnleTg/?igsh=MTBzbmNyNnRoeGZneA==)
 
 Ou, porque produtos semelhantes contam com preços completamente diferentes.
@@ -36,3 +34,5 @@ Qualquer uma das opções está certa, desde que você sabia porque está compra
 Preço é o que você paga, valor é o que você leva.
 
 E você? Quer comprar (ou já comprou) qual fone? E por quê?
+
+[Fonte](https://www.instagram.com/p/CZz6YFnleTg/?igsh=MTBzbmNyNnRoeGZneA==)

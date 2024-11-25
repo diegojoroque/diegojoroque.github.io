@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Joyce… Amor… Tchuca…"
-date:   2024-11-25 00:00:00 -0300
+date:   2024-11-25 00:00:01 -0300
 categories: texts
 ---
 # Joyce… Amor… Tchuca…

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Para de se culpar ou achar que você deveria ter feito algo diferente."
+title:  "Pare de se culpar ou achar que você deveria ter feito algo diferente."
 date:   2024-11-22 17:38:00 -0300
 categories: quotes
 ---

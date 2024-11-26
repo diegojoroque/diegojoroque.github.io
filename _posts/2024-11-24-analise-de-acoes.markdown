@@ -139,9 +139,22 @@ categories: finance
 
 		* Elétrica: Geralmente tem uma dívida maior (estão ais alavancado)
 
-	* Acompanhar o calendário de anúncio e pagamento de dividendos para se atentar às possíveis datas de melhor aporte.
-
 	* Liquidez média diária
+
+* # Dicas
+
+	* O rebalanceamento poderá ser feito considerando o preço teto e a porcentagem da renda total que deseja-se receber de cada empresa.
+		* Ex.: Da renda total, **x reais**, eu quero que seja pago pela **empresa A**, **y%** eu quero que seja pago pela **empresa B**...
+		
+	* Dividendos são pagos em relação ao número de ações e não em relação ao valor investido!
+	
+	* É melhor realizar muitos aportes em poucas empresas do que pequenos aportes em muitas empresa!
+
+	* Realize aportes em boas empresas que sejam perenes e recorrentes pagadoras de divididendo!
+
+	* O dividendo deve ser reinvestido para acelerar o efeito "bola de neve" e a passagem pela "zona de arrebentação" (dividendos > valor aportes)!								
+
+	* Acompanhe o calendário de anúncio, data com e pagamento de proventos para "prever" as melhores datas de aporte, inclusive já iniciando os aportes nos meses anteriores para tentar "fugir" de possíveis altas da cotação devido à proximidade da data com e data de pagamento.						
 
 * ### Atenção!
 

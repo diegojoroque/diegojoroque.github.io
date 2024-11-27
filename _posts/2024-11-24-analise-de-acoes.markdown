@@ -30,7 +30,7 @@ categories: finance
 
 		Projetado a partir do lucro líquido projetado/realizado no ano corrente, do payout atual e  do número de ações da empresa.
 		
-		Na ausencia do payout atual, utilizo o payout médio (6 últimos anos).
+		Na ausencia do payout atual, tenho utilizado a média do payout dos últimos 6 anos, tentando minimizar algum evento não recorrente.
 
 		O DPA projetado pode demonstrar se há ou não perspectiva de crescimento, em relação ao DMA.
 
@@ -143,7 +143,9 @@ categories: finance
 
 * # Dicas
 
-	* O rebalanceamento poderá ser feito considerando o preço teto e a porcentagem da renda total que deseja-se receber de cada empresa.
+	* Preço importa! Compre (e continue comprando) a ação mais barata dentro da sua estratégia e das empresas que compõem sua carteira, independe do tempo que estes aportes irão durar. No fim dia, o que importa são os proventos recebidos, independente de qual empresa o pago (Claro, respeitando as premissas da sua estratégia de investimento.).
+	
+	* Baseado no ponto acima, o rebalanceamento da carteira acontecerá naturalmente, ainda que demore. Você poderá até criar metas em ações considerando o preço teto e a porcentagem da renda total que deseja-se receber de cada empresa.
 		* Ex.: Da renda total, **x reais**, eu quero que seja pago pela **empresa A**, **y%** eu quero que seja pago pela **empresa B**...
 		
 	* Dividendos são pagos em relação ao número de ações e não em relação ao valor investido!

@@ -6,7 +6,7 @@ categories: texts
 ---
 # Sua vida em semanas
 
-O tempo sempre me fascinou e trouxe indagações. Talvez seja por isso que "Back to the Future", "About Time" e "Project Almanac" estejam entre os meus filmes favoritos. Enfim, acho meio assustador saber que esse exato segunto já acabou e não voltará jamais. Por outro lado é incrível pensar que todos nós temos as mesmas 24h no dia, nem uma fração de segundo a mais ou a menos.
+O tempo sempre me fascinou e trouxe indagações. Talvez seja por isso que "Back to the Future", "About Time" e "Project Almanac" estejam entre os meus filmes favoritos. Enfim, acho meio assustador saber que esse exato segunto já acabou e não voltará jamais. Por outro lado é incrível pensar que todos nós temos as mesmas 24 horas no dia, nem uma fração de segundo a mais ou a menos.
 
 Nesse contexto, destaco abaixo a palestra e um trecho do texto ["Your Life in Weeks"](https://waitbutwhy.com/2014/05/life-weeks.html), ambos de Tim Urban:
 

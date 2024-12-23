@@ -133,11 +133,11 @@ categories: finance
 
 	* Observações intrínseca dos setores:
 
-		* Banco: Avaliar o índice de basileia
+		* Banco: Avaliar o, Valor Patrimonial, P/L e índice de basileia
 
-		* Seguradora: Avaliar índice de sinistros e ROE
+		* Seguradora: Avaliar ROE e índice de sinistros
 
-		* Elétrica: Geralmente tem uma dívida maior (estão ais alavancado)
+		* Elétrica: Avaliar EV/EBTIDA. Geralmente tem uma dívida maior (estão mais alavancado)
 
 	* Liquidez média diária
 

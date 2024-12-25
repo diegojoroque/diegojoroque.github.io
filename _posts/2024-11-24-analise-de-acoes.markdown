@@ -141,6 +141,8 @@ categories: finance
 
 	* Liquidez média diária
 
+	* Fluxo de caixa livre: Corresponde ao dinheiro que uma empresa tem disponível depois de quitar todas as suas obrigações financeiras.
+
 * # Dicas
 
 	* Preço importa! Compre (e continue comprando) a ação mais barata dentro da sua estratégia e das empresas que compõem sua carteira, independe do tempo que estes aportes irão durar. No fim dia, o que importa são os proventos recebidos, independente de qual empresa o pago (Claro, respeitando as premissas da sua estratégia de investimento.).

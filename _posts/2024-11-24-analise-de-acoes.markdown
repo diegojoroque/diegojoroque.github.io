@@ -158,7 +158,15 @@ categories: finance
 
 	* O dividendo deve ser reinvestido para acelerar o efeito "bola de neve" e a passagem pela "zona de arrebentação" (dividendos > valor aportes)!								
 
-	* Acompanhe o calendário de anúncio, data com e pagamento de proventos para "prever" as melhores datas de aporte, inclusive já iniciando os aportes nos meses anteriores para tentar "fugir" de possíveis altas da cotação devido à proximidade da data com e data de pagamento.						
+	* Acompanhe o calendário de anúncio, data com e pagamento de proventos para "prever" as melhores datas de aporte, inclusive já iniciando os aportes nos meses anteriores para tentar "fugir" de possíveis altas da cotação devido à proximidade da data com e data de pagamento.
+
+	* Invista na empresa com maior margem de segurança.
+
+	* O lucro projetado pode ser obtido no guidance, estimativa de mercado ou média dos trimestres anteriores e último ano.
+
+	* Sempre comparar o DPA médio e o projetivo. Todavia, atentar-se as particularidades.
+		* Ex.: As dúvidas acerca do futuro das transmissoras e BB seguridade.
+							
 
 * ### Atenção!
 

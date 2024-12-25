@@ -7,4 +7,5 @@ categories: quotes
 > It is never too late to be what you might have been
 
 > George Eliot⁠
+
 ![It is never too late to be what you might have been](/assets/it-is-never-too-late.png)

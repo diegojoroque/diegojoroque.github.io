@@ -1,0 +1,2 @@
+User—agent: CCBot
+Disallow: /

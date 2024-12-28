@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "111bpm"
+date:   2023-05-09 19:43:00 -0300
+categories: quotes
+---
+![111bpm](/assets/111bpm.PNG)

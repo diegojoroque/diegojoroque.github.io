@@ -22,3 +22,5 @@ Algumas das promessas para quem levar sempre consigo essa oração são: não mo
 >conduzi-me com Jesus à vida eterna. Por todos os séculos dos séculos. Amém!
 
 [![Oração Poderosa da Santa Cruz de Jesus Cristo](/assets/oracao-poderosa-santa-cruz.png)](https://www.youtube.com/watch?v=7P196MhjLJQ)
+
+[Fonte](https://www.instagram.com/irkelly_institutohesed_oficial/p/CNvfKPVpynk/)

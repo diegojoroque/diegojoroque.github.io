@@ -7,7 +7,7 @@ categories: video
 # A história de Ana
 **Por que os jovens profissionais da geração Y estão infelizes**
 
-[![A história de Ana](/assets/historia-de-ana.PNG)](https://www.youtube.com/watch?v=nngF9N6ePgY)
+[![A história de Ana](/assets/historia-de-ana.png)](https://www.youtube.com/watch?v=nngF9N6ePgY)
 
 Artigos:
 

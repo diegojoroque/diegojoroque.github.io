@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Até aqui o Senhor nos ajudou"
+title:  "Até aqui o Senhor nos ajudou  (1 Samuel 7,12)"
 date:   2024-12-18 02:34:00 -0300
 categories: quotes
 ---

@@ -6,7 +6,9 @@ categories: quotes
 ---
 
 >Para ser feliz, você precisa eliminar duas coisas:
+>
 >o medo de um futuro incerto
+>
 >e a recordação de um passado ruim.
 
 >?

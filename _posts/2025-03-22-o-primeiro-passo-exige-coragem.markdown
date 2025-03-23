@@ -6,6 +6,7 @@ categories: quotes
 ---
 
 >O primeiro passo exige coragem.
+>
 >Os demais exigem disciplina.
 
 >?

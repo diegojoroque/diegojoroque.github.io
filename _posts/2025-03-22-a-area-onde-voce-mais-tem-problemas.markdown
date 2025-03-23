@@ -6,8 +6,9 @@ categories: quotes
 ---
 
 >A área onde você mais tem problemas
+>
 >é a área onde você, depois de curado,
+>
 > vai ser usado para curar pessoas.
 
 >Aline Bertolozzi
->

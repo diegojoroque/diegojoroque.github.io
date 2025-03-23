@@ -6,8 +6,11 @@ categories: quotes
 ---
 
 >Valorize o seu dia comum.
+>
 >Muitas pessoas gostariam
+>
 >de estar tendo só mais um
+>
 >dia comum hoje.
 
 >?

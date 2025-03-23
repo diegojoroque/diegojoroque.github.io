@@ -5,9 +5,12 @@ date:   2025-03-22 17:04:00 -0300
 categories: quotes
 ---
 
->ou você muda,
+>Ou você muda,
+>
 >ou tudo se repete...
->tarde foi ontem,
+>
+>Tarde foi ontem,
+>
 >hoje ainda dá tempo...
 
 >?

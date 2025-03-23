@@ -6,7 +6,9 @@ categories: quotes
 ---
 
 >As pessoas não decidem seu futuro,
+>
 >elas decidem seus hábitos, e seus
+>
 >hábitos decidem seu futuro."
 
 >F. Matthias Alexander

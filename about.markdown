@@ -6,11 +6,11 @@ permalink: /about/
 
 # Hello World!👋
 
-Meu nome é Diego Roque. Sou pai, marido, desenvolvedor (skill loading) e Tecnólogo em Análise e Desenvolvimento de Sistemas.
+Meu nome é Diego Roque. Sou pai, marido, desenvolvedor (*skill loading*) e Tecnólogo em Análise e Desenvolvimento de Sistemas.
 
-Como profissional, possuo experiência com manutenção e configuração de computadores, suporte ao usuário, Excel e WordPress, além de ter trabalhado com outras coisas. Atualmente estudo Java.
+Como profissional, possuo experiência com manutenção e configuração de computadores, suporte ao usuário, Excel e WordPress, além de ter trabalhado com outras coisas. Atualmente estudo **Java**☕.
 
-Este é meu canto da web. Um misto de diário, laboratório de ideias e curadoria do que encontro de melhor por aí.
+Este é meu canto da web🌐. Um misto de diário, laboratório de ideias e curadoria do que encontro de melhor por aí.
 
 ## Mas por que criar um blog? *(Back to the 2000s?)*
 
@@ -28,4 +28,5 @@ Basta lembrar do bloqueio do X (ex-Twitter) no Brasil e das mudanças no Instagr
 Some a isso o fato de que, quando comecei a criar esse site, fiquei muito empolgado com as possibilidades do Markdown e cá estamos. 
 
 ### Por fim, também quero concentrar aqui o acesso aos meus [projetos no GitHub](https://github.com/diegojoroque), ao meu [Instagram](https://instagram.com/diegojoroque) e ao meu [LinkedIn](https://br.linkedin.com/in/diegojoroque).
-Então... seja bem-vindo!
+
+**Então... seja bem-vindo!**

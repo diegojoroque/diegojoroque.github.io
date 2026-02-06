@@ -16,9 +16,9 @@ Este é meu canto da web. Um misto de diário, laboratório de ideias e curadori
 
 Sabe quando você vê algo interessante e quer guardar? Então, a ideia desse blog nasceu disso. Armazenar e facilitar o acesso às coisas que vi e me interessei.
 
-> Você pode até pensar.
+Você pode até pensar.
 
->> "Mas já existem outras maneiras (até mais práticas) para fazer isso, como apps de notas, pins e redes sociais". Eu até tentei algumas: Instagram, Pocket, Google Sheets entre outras. A publicação no LinkedIn foi o que melhor funcionou para mim.
+> "Mas já existem outras maneiras (até mais práticas) para fazer isso, como apps de notas, pins e redes sociais". Eu até tentei algumas: Instagram, Pocket, Google Sheets entre outras. A publicação no LinkedIn foi o que melhor funcionou para mim.
 
 O problema é que deslizar pelo feed entre atividades, curtidas, compartilhamentos e outras interações só para encontrar uma publicação específica — principalmente uma mais antiga — é bem chato. Além disso, não temos controle sobre a efemeridade das plataformas de terceiros, e isso me incomoda. 
 

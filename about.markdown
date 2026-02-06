@@ -27,6 +27,5 @@ O problema é que deslizar pelo feed entre atividades, curtidas, compartilhament
 Basta lembrar do bloqueio do X (ex-Twitter) no Brasil e das mudanças no Instagram, Medium e tantas outras.
 Some a isso o fato de que, quando comecei a criar esse site, fiquei muito empolgado com as possibilidades do Markdown e cá estamos. 
 
-Por fim, também quero concentrar aqui o acesso aos meus [projetos no GitHub](https://github.com/diegojoroque), ao meu [Instagram](https://instagram.com/diegojoroque) e ao meu [LinkedIn](https://br.linkedin.com/in/diegojoroque).
-
+### Por fim, também quero concentrar aqui o acesso aos meus [projetos no GitHub](https://github.com/diegojoroque), ao meu [Instagram](https://instagram.com/diegojoroque) e ao meu [LinkedIn](https://br.linkedin.com/in/diegojoroque).
 Então... seja bem-vindo!

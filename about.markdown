@@ -31,3 +31,5 @@ Some a isso o fato de que, quando comecei a criar esse site, fiquei muito empolg
 🔗 [GitHub](https://github.com/diegojoroque) | [Instagram](https://instagram.com/diegojoroque) | [LinkedIn](https://br.linkedin.com/in/diegojoroque)
 
 **Então... seja bem-vindo!**
+
+`P.S. Este texto foi escrito por mim e refatorado com a ajuda de uma IA (que felizmente ainda não cobra por commits). ☕🤖`

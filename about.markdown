@@ -9,6 +9,7 @@ permalink: /about/
 Meu nome é Diego Roque. Sou pai, marido, Tecnólogo em Análise e Desenvolvimento de Sistemas e Técnico de TI.
 
 Como profissional, possuo experiência em suporte técnico, manutenção de computadores e configuração de sistemas e softwares.
+
 Atualmente, estudo desenvolvimento de sistemas utilizando `Java☕`.
 
 Este é meu canto da web🌐. Um misto de diário, organização de ideias e curadoria do que encontro de melhor por aí.
